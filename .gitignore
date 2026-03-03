@@ -163,3 +163,7 @@ cython_debug/
 *data/
 gtsrb/
 gtsrb.zip
+NLP/Fed-Analyzer/embeddings 
+NLP/Fed-Analyzer/fomc_pdfs
+NLP/Fed-Analyzer/fomc_texts
+NLP/Fed-Analyzer/outputs
